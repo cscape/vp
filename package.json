@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/vuejs/vuepress#readme",
   "dependencies": {
-    "@vuepress/core": "^1.1.0",
+    "@vuepress/core": "https://github.com/cscape/vpcore.git",
     "@vuepress/theme-default": "^1.1.0",
     "cac": "^6.3.9",
     "envinfo": "^7.2.0",
